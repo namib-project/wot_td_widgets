@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release with support for Thing Descriptions with CoAP, MQTT, and HTTP bindings.
